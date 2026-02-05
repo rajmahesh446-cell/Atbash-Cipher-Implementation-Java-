@@ -37,11 +37,7 @@ public class AtbashCipher {
         // Example 4: Mixed Characters
         System.out.println("4. PYRAMID  -> " + applyAtbash("PYRAMID"));
         
-        
-
-
-
-        // Example 5: Numbers (Unchanged)
+       // Example 5: Numbers (Unchanged)
         System.out.println("5. A1B2C3   -> " + applyAtbash("A1B2C3"));
     }
 }
