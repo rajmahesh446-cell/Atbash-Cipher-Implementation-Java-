@@ -37,7 +37,7 @@ public class AtbashCipher {
         // Example 4: Mixed Characters
         System.out.println("4. PYRAMID  -> " + applyAtbash("PYRAMID"));
         System.out.println("4. PYRAMID  -> " + applyAtbash("PYRAMID"));
-        System.out.println("4. PYRAMID  -> " + applyAtbash("PYRAMID"));
+        
 
 
 
